@@ -6,7 +6,7 @@ Srikar Bollineni
 
 ### 🚀 About Me  
 I’m a passionate software developer with a Master’s in Computer Science from the **University of Dayton**.  
-With 5 years of experience building scalable applications, I specialize in designing full-stack solutions using **Java, React, Angular, and Spring Boot**. I love solving complex problems, learning new technologies, and delivering impactful software.  
+With 4 years of experience building scalable applications, I specialize in designing full-stack solutions using **Java, React, Angular, and Spring Boot**. I love solving complex problems, learning new technologies, and delivering impactful software.  
 
 ---
 
